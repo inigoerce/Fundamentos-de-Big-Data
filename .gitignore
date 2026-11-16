@@ -1,0 +1,7 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+#Datos locales
+data/
+.env
